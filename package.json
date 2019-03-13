@@ -1,0 +1,22 @@
+{
+  "name": "md-parser",
+  "version": "1.0.0",
+  "description": "Markdown to HTML parser",
+  "main": "grammar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhinm/md-to-html-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhinm/md-to-html-parser/issues"
+  },
+  "homepage": "https://github.com/sudhinm/md-to-html-parser#readme",
+  "devDependencies": {
+    "jison": "^0.4.18"
+  }
+}
