@@ -1,7 +1,7 @@
-#Markdown to HTML parser
+# Markdown to HTML parser
 This is a simple jison parser to parse markdown scripts to HTML.
 
-##Usage
+## Usage
 
 Install dependencies
 ``` npm install ```
